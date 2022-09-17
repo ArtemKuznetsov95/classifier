@@ -2,8 +2,6 @@
 #include <QDebug>
 
 Classifier::Classifier(){}
-QSet<QString> set1 = {"ir:row",};
-QSet<QString>::iterator itSet;
 
 //Начало работы с элементом. При открытии тега
 //Третий параметр тег
